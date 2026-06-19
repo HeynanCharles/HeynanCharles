@@ -1,7 +1,7 @@
-## Hi there 👋
+## Olá!! Eu sou o Heynan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Hoje trabalho com atendimento ao cliente
+- 🌱 Estudando Python e cloud em AWS
 
 <a href="https://github.com/HeynanCharles/github-readme-stats">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=HeynanCharles&show_icons=true&theme=midnight-purple" />
@@ -17,7 +17,6 @@
   <img align="center" alt="Charles-CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img src="https://s7.ezgif.com/tmp/ezgif-7cd1a6d6eec8414d.gif" alt="Charles-Gif" align="right" height="190"/>
 </div>
-
 
 ##
 
