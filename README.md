@@ -12,6 +12,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Charles-AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;
+  <img align="center" alt="Charles-Python" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Charles-Js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Charles-HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Charles-CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
