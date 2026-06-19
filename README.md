@@ -15,7 +15,6 @@
   <img align="center" alt="Charles-Js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Charles-HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Charles-CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img src="https://s7.ezgif.com/tmp/ezgif-7cd1a6d6eec8414d.gif" alt="Charles-Gif" align="right" height="190"/>
 </div>
 
 ##
